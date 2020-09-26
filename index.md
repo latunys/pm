@@ -1,5 +1,3 @@
-## PM
-
 ### PMBOOK
 
 ### PRINCE2
